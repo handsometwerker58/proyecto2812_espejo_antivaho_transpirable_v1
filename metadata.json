@@ -1,0 +1,7 @@
+{
+  "name": "proyecto281225_espejo antivaho transpirable_v1",
+  "description": "An interactive digital installation featuring breath-to-fog simulation, finger wiping gestures, and falling snow, powered by MediaPipe hand and face tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
